@@ -9,7 +9,7 @@ on:
 
 env:
   REPO_URL: github.com/huoyubaba/openwrt-packages
-  REPO_BRANCH: master
+  REPO_BRANCH: main
   SCRIPT: packages.sh
   TZ: Asia/Shanghai
 
